@@ -1,4 +1,4 @@
-### Diabetes Prediction Project
+# Diabetes Prediction Project
 Diabetes Prediction This project implements a machine learning model to predict diabetes outcomes based on medical diagnostic measurements. The analysis involves data preprocessing, model training, and evaluation using three different machine learning algorithms: Decision Tree, Random Forest, and Logistic Regression.
 ## Table of Contents
 -	Introduction
